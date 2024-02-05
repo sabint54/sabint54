@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Deep Learning basic project**
 
-- 🌱 I’m currently learning ![**Deep Learning with Tensorflow**](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) and ![**Spark**](https://img.shields.io/badge/apache-spark-FF6F00?style=for-the-badge&logo=spark&logoColor=white)
+- 🌱 I’m currently learning ![**Deep Learning with Tensorflow**](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) and ![**Spark**](https://img.shields.io/badge/Spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
   
 - 👯 I’m looking to collaborate on **open source projects**.
 
