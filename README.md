@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 - 👯 I’m looking to collaborate on **open source projects**.
 
-- 📫 How to reach me **sabint54@gmail.com** or through ![**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
+- 📫 How to reach me **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
 
 - 📄 Know about my experiences ![**Resume**]((resume link))
 
