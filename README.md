@@ -30,7 +30,7 @@ I  have a passion for problem solving and designing solutions. I have spearheade
 
 - 📫 How to reach me **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
 
-- 📄 Know about my experiences ![**Resume**](/files/SabinTandukarResume.pdf)
+- 📄 Know about my experiences [**Resume**](/files/SabinTandukarResume.pdf)
 
 ---
 
