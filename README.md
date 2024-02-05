@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm Sabin Tandukar, a Delivery Consultant at ![**IBM**](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=)
 
-I  have a passion for problem solving and designing solutions. I have spearheaded many projects including creating a migration assessment tool, migrating assets from legacy to nextGen DataStage, and building pipelines to efficiently process data through Alteryx and Python. 
+I  have a passion for problem solving and designing solutions. I have spearheaded many projects including creating a migration assessment tool using Python, migrating assets from legacy to nextGen DataStage using bash scripts and APIs, and building pipelines/workflows to efficiently process data through Alteryx. 
 
 ---
 
