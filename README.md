@@ -12,23 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there! 👋 I'm Sabin Tandukar, a Delivery Consultant at IBM.
+## Hi there! 👋 
 
-- 🔭 I’m currently working on **Deep Learning basic project**
+I'm Sabin Tandukar, a Delivery Consultant at ![**IBM**](https://img.shields.io/static/v1?style=for-the-badge&message=IBM&color=052FAD&logo=IBM&logoColor=FFFFFF&label=)
 
-- 🌱 I’m currently learning ![**Deep Learning with Tensorflow**](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) and ![**Spark**](https://img.shields.io/badge/Spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
+I  have a passion for problem solving and designing solutions. I have spearheaded many projects including creating a migration assessment tool using Python, migrating assets from legacy to nextGen DataStage using bash scripts and APIs, and building pipelines/workflows to efficiently process data through Alteryx. 
+
+---
+
+### Currently
+
+- 🔭 I’m working on [**Deep Learning basic project**](https://github.com/sabint54/DLBasics)
+
+- 🌱 I’m learning ![**Deep Learning with Tensorflow**](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) and ![**Spark**](https://img.shields.io/badge/Spark-FF6F00?style=for-the-badge&logo=apache-spark&logoColor=white)
   
 - 👯 I’m looking to collaborate on **open source projects**.
 
-- 📫 How to reach me **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
-
-- 📄 Know about my experiences ![**Resume**]((resume link))
+---
 
 ### Top Skills:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=IBM%20Cloud&logoColor=white)
 
 ---
 
-### 🎓Education
-Master of Science, Data Analytics | Clark University (Aug 2020 - Dec 2021)
-Bachelor of Science, Management Information Systems | SUNY Plattsburgh (Aug 2016 - May 2020)
+### Personal Things
+
+- 🇳🇵 I come from Nepal 
+
+- 🎮 I love playing video games to relax 
+
+- ⚽️ I watch all of Real Madrid's football games 
+
+- 🤖 Currently exploring ML and Data Processing topics
+
+- 📫 Reach me via email at **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
+
+- 📄 Learn about my experiences [**Resume**](/files/SabinTandukarResume.pdf)
