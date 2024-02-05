@@ -28,10 +28,6 @@ I  have a passion for problem solving and designing solutions. I have spearheade
   
 - 👯 I’m looking to collaborate on **open source projects**.
 
-- 📫 How to reach me **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
-
-- 📄 Know about my experiences [**Resume**](/files/SabinTandukarResume.pdf)
-
 ---
 
 ### Top Skills:
@@ -41,11 +37,14 @@ I  have a passion for problem solving and designing solutions. I have spearheade
 
 ### Personal Things
 
-- I come from Nepal 🇳🇵
+- 🇳🇵 I come from Nepal 
 
-- I love playing video games to relax 🎮
+- 🎮 I love playing video games to relax 
 
-- I try to watch all of Real Madrid's football games ⚽️
+- ⚽️ I watch all of Real Madrid's football games 
 
-- Currently exploring ML and Data Processing topics
+- 🤖 Currently exploring ML and Data Processing topics
 
+- 📫 Reach me via email at **sabint54@gmail.com** or through [**LinkedIn**](https://www.linkedin.com/in/sabin-tandukar-/)
+
+- 📄 Learn about my experiences [**Resume**](/files/SabinTandukarResume.pdf)
